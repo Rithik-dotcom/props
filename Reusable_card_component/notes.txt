@@ -1,0 +1,6 @@
+Props - ReUsable_Component_ Practice
+
+1. we are going to use props to manipulate css class
+
+
+2. we are going to reuse a single component  
